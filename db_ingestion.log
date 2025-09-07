@@ -1,0 +1,36 @@
+2025-08-26 13:03:19,740 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:04:53,833 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:05:59,917 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:10:24,614 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:14:03,610 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:14:16,590 - INFO - Ingested table: begin_inventory (206529 rows, 9 columns)
+2025-08-26 13:14:17,337 - INFO - Loading file: end_inventory.csv
+2025-08-26 13:14:31,965 - INFO - Ingested table: end_inventory (224489 rows, 9 columns)
+2025-08-26 13:14:45,404 - INFO - Loading file: purchases.csv
+2025-08-26 13:20:55,166 - INFO - Ingested table: purchases (2372474 rows, 16 columns)
+2025-08-26 13:20:55,521 - INFO - Loading file: purchase_prices.csv
+2025-08-26 13:20:57,798 - INFO - Ingested table: purchase_prices (12261 rows, 9 columns)
+2025-08-26 13:21:44,896 - INFO - Loading file: sales.csv
+2025-08-26 13:28:46,735 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 13:28:46,754 - WARNING - No such comm: ad5d1f2e-fe52-4df5-b0c8-f750c13acac8
+2025-08-26 13:42:21,746 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 13:42:21,783 - WARNING - No such comm: 766c796a-0ed7-45bf-b330-1646f3577104
+2025-08-26 13:58:38,353 - INFO - Loading file: begin_inventory.csv
+2025-08-26 13:58:49,482 - INFO - Ingested table: begin_inventory (206529 rows, 9 columns)
+2025-08-26 13:58:49,976 - INFO - Loading file: end_inventory.csv
+2025-08-26 14:01:30,053 - INFO - Loading file: begin_inventory.csv
+2025-08-26 14:03:37,280 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 14:03:37,281 - WARNING - No such comm: 66c32fc9-a157-4136-82db-77ae6c4ddfe8
+2025-08-26 14:32:13,717 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 14:32:13,719 - WARNING - No such comm: eb3326ee-111a-476f-921c-81e2657c87b6
+2025-08-26 15:22:59,687 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 15:22:59,688 - WARNING - No such comm: 36fe5884-3248-4c29-91e6-15a50088b312
+2025-08-26 15:45:13,716 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 15:45:13,719 - WARNING - No such comm: 2203cfe5-cce8-4596-9a2c-8b6f43ae4b4d
+2025-08-26 16:14:13,706 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-26 16:14:13,709 - WARNING - No such comm: a134cf31-1a0a-4d85-884e-b416ef1b9d3e
+2025-08-26 16:59:09,220 - INFO - Loading file: begin_inventory.csv
+2025-08-26 16:59:20,525 - INFO - Ingested table: begin_inventory (206529 rows, 9 columns)
+2025-08-26 16:59:21,191 - INFO - Loading file: end_inventory.csv
+2025-08-26 16:59:32,777 - INFO - Ingested table: end_inventory (224489 rows, 9 columns)
+2025-08-26 16:59:43,142 - INFO - Loading file: purchases.csv
